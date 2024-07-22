@@ -1,0 +1,75 @@
+/* .body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color:red;
+} */
+.mainContainer {
+    height: 1000px;
+   
+}
+
+.nav {
+    /* border: solid green; */
+    height: 100px;
+    display: flex;
+    justify-content: end;
+   
+}
+.title {
+    /* border: solid purple; */
+    height: 50px;
+    width: 200px;
+    margin: 0.5em;
+    text-align: center;
+}
+#name {
+margin-right: auto;
+text-transform:uppercase;
+}
+#pic1 {
+    height: 30px;
+    width: 60px;
+    text-decoration: underline;
+}
+#pic1:hover {
+    background-color:pink;
+}
+#name {
+    height: 100px;
+    width: 300px;
+    translate: 50px 0;
+    color: rgb(138, 2, 25);
+    text-shadow: 5px 5px 4px red;
+    font-size: 60px;
+    margin-top: 10px;
+}
+#showcase1 {
+    min-height: 700px;
+    text-align: right;
+    color:rgb(240, 6, 45);
+    background: url(https://media.gettyimages.com/id/1189934278/photo/beautiful-spring-flowers-on-pink-background-flower-frame-composition.jpg?s=612x612&w=0&k=20&c=V19QnCrvC1OADbMjkEs_7ks7yfg37Rqzciw2oRun5jI=)
+no-repeat center center/cover;
+}
+#showcase1 h1 {
+    margin-top: 100px;
+    margin-right: 100px;
+    font-size: 55px;
+}
+#showcase1 p {
+    margin-top: 100px;
+    margin-right: 100px;
+    font-size: 30px;
+    color: rgb(68, 156, 68)
+}
+footer{
+    background: pink; 
+    color: green; 
+    text-align: center; 
+    padding: 20px ;
+    font-size: 20px;
+    
+    
+}
+

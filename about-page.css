@@ -1,0 +1,137 @@
+.MainAboutContainer {
+    height: 1000px;
+   
+}
+.containerA {
+    height: 100px;
+    display: flex;
+    justify-content: end;
+   
+}
+.title {
+    height: 50px;
+    width: 200px;
+    margin: 0.5em;
+    text-align: center;
+    
+}
+#name1 {
+margin-right: auto;
+text-transform:uppercase;
+}
+#pic2 {
+    height: 30px;
+    width: 60px;
+    text-decoration: underline;
+
+}
+#pic2:hover {
+    background-color:pink;
+}
+#name1 {
+    height: 80px;
+    width: 300px;
+    translate: 50px 0;
+    color: rgb(138, 2, 25);
+    text-shadow: 5px 5px 4px red;
+    font-size: 60px;
+    margin-top: 10px;
+}
+#showcase1 {
+    text-align: center;
+    background-color: pink;
+    
+}
+#name2 {
+    margin: auto;
+    color: rgb(221, 5, 41);
+}
+.containerB {
+    font-size: 20px;
+}
+.containerC {
+    border: solid;
+    height: 300px;
+    font-size: 20px;
+}
+.containerC h4 {
+    margin-top: 2px;
+}
+
+
+table {
+    width: 90%;
+    margin-left: 4.5em;             
+    
+    
+}
+table, th, td {
+    border: 1px solid #ddd;
+}
+th, td {
+    padding: 12px;
+    text-align: left;
+}
+th {
+    
+    color: rgb(165, 12, 38);
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+#myRow {
+    background-color:pink;
+} 
+#myRow th {
+    color:black
+}
+.dropdown {
+    float: left;
+    overflow: hidden;
+  }
+  
+  .dropdown .dropbtn {
+    font-size: 20px;  
+    border: none;
+    outline: none;
+    color: rgb(224, 85, 85);
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .dropdown-content a:hover {
+    background-color: rgb(224, 85, 85);
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  footer{
+    background: pink; 
+    color: green; 
+    text-align: center; 
+    padding: 20px 0;
+    font-size: 30px;
+    
+    
+}
+  

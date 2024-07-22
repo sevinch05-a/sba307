@@ -1,0 +1,215 @@
+/* .body {
+    border: solid rgb(230, 19, 54);
+    height: 1000px;
+} */
+
+.MainContactContainer {
+    height: 1000px;
+   
+}
+.containerA {
+    height: 100px;
+    display: flex;
+    justify-content: end;
+   
+}
+.title {
+    height: 50px;
+    width: 200px;
+    margin: 0.5em;
+    text-align: center;
+    
+}
+#name2 {
+margin-right: auto;
+text-transform:uppercase;
+}
+#pic3 {
+    height: 30px;
+    width: 60px;
+    text-decoration: underline;
+
+}
+#pic3:hover {
+    background-color:pink;
+}
+#name2 {
+    height: 80px;
+    width: 300px;
+    translate: 50px 0;
+    color: rgb(138, 2, 25);
+    text-shadow: 5px 5px 4px red;
+    font-size: 60px;
+    margin-top: 10px;
+}
+#showcase1 {
+    text-align: center;
+    background-color: pink;
+    
+}
+#name3 {
+    margin: auto;
+    color: rgb(221, 5, 41);
+}
+.containerB {
+    font-size: 20px;
+}
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+input[type="submit"] {
+    background-color:pink;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+textarea:focus {
+    outline: none;
+    border-color: #4CAF50;
+    box-shadow: 0 0 5px #4CAF50;
+}
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+.fade-in {
+    animation: fadeIn 1.5s ease-in;
+}
+@keyframes bounce {
+    0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+    40% { transform: translateY(-30px); }
+    60% { transform: translateY(-15px); }
+}
+.bounce {
+    animation: bounce 2s infinite;
+}
+footer{
+    background: pink; 
+    color: green; 
+    text-align: center; 
+    padding: 20px 0;
+    font-size: 30px;   
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
